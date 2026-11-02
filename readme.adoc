@@ -1,4 +1,3 @@
 
-**Identité des comptes:
-
+==Identité des comptes : +
 - Sanspawn : **Alexis Sudre Brito**
